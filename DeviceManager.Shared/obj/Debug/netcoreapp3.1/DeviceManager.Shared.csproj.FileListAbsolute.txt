@@ -1,0 +1,10 @@
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\bin\Debug\netcoreapp3.1\DeviceManager.Shared.deps.json
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\bin\Debug\netcoreapp3.1\DeviceManager.Shared.dll
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\bin\Debug\netcoreapp3.1\DeviceManager.Shared.pdb
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\obj\Debug\netcoreapp3.1\DeviceManager.Shared.csproj.AssemblyReference.cache
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\obj\Debug\netcoreapp3.1\DeviceManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\obj\Debug\netcoreapp3.1\DeviceManager.Shared.AssemblyInfoInputs.cache
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\obj\Debug\netcoreapp3.1\DeviceManager.Shared.AssemblyInfo.cs
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\obj\Debug\netcoreapp3.1\DeviceManager.Shared.csproj.CoreCompileInputs.cache
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\obj\Debug\netcoreapp3.1\DeviceManager.Shared.dll
+C:\Users\chrysostomos.valsama\source\repos\DeviceManager\DeviceManager.Shared\obj\Debug\netcoreapp3.1\DeviceManager.Shared.pdb
