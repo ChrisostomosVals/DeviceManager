@@ -10,7 +10,7 @@ namespace DeviceManager.Shared.Models
         public string NAME { get; set; }
         public string DSCR { get; set; }
         public DateTime LAST_UPDATED { get; set; }
-        public string LONGITUDE { get; set; }
-        public string LATITUDE { get; set; }
+        public double LONGITUDE { get; set; }
+        public double LATITUDE { get; set; }
     }
 }

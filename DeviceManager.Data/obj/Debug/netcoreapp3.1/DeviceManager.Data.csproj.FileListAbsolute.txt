@@ -1,0 +1,13 @@
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\bin\Debug\netcoreapp3.1\DeviceManager.Data.deps.json
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\bin\Debug\netcoreapp3.1\DeviceManager.Data.dll
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\bin\Debug\netcoreapp3.1\DeviceManager.Data.pdb
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\bin\Debug\netcoreapp3.1\DeviceManager.Shared.dll
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\bin\Debug\netcoreapp3.1\DeviceManager.Shared.pdb
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.csproj.AssemblyReference.cache
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.AssemblyInfoInputs.cache
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.AssemblyInfo.cs
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.csproj.CoreCompileInputs.cache
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.csproj.CopyComplete
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.dll
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Data\obj\Debug\netcoreapp3.1\DeviceManager.Data.pdb

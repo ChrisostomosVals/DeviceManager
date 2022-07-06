@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj": {}
+    "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj": {
+    "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj",
+        "projectUniqueName": "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj",
         "projectName": "DeviceManager.Data",
-        "projectPath": "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj",
-        "packagesPath": "C:\\Users\\chrysostomos.valsama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Data\\obj\\",
+        "projectPath": "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Data\\DeviceManager.Data.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\chrysostomos.valsama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\chrysostomos.valsama\\Documents\\Visual Studio 2022\\Projects\\AccountPortal\\dlls": {},
+          "D:\\chris\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj": {
-                "projectPath": "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj"
+              "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj": {
+                "projectPath": "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj"
               }
             }
           }
@@ -65,21 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj": {
+    "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj",
+        "projectUniqueName": "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj",
         "projectName": "DeviceManager.Shared",
-        "projectPath": "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj",
-        "packagesPath": "C:\\Users\\chrysostomos.valsama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chrysostomos.valsama\\source\\repos\\DeviceManager\\DeviceManager.Shared\\obj\\",
+        "projectPath": "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Shared\\DeviceManager.Shared.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "D:\\chris\\Coding\\GitRepo\\DeviceManager\\DeviceManager.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\chrysostomos.valsama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,7 +95,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\chrysostomos.valsama\\Documents\\Visual Studio 2022\\Projects\\AccountPortal\\dlls": {},
+          "D:\\chris\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,7 +128,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

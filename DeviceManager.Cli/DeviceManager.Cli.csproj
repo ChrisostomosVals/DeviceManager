@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DeviceManager.Data\DeviceManager.Data.csproj" />
+    <ProjectReference Include="..\DeviceManager.Shared\DeviceManager.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

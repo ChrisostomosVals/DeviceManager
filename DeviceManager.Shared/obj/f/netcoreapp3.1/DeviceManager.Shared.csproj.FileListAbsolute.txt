@@ -1,0 +1,10 @@
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\bin\f\netcoreapp3.1\DeviceManager.Shared.deps.json
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\bin\f\netcoreapp3.1\DeviceManager.Shared.dll
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\bin\f\netcoreapp3.1\DeviceManager.Shared.pdb
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\obj\f\netcoreapp3.1\DeviceManager.Shared.csproj.AssemblyReference.cache
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\obj\f\netcoreapp3.1\DeviceManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\obj\f\netcoreapp3.1\DeviceManager.Shared.AssemblyInfoInputs.cache
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\obj\f\netcoreapp3.1\DeviceManager.Shared.AssemblyInfo.cs
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\obj\f\netcoreapp3.1\DeviceManager.Shared.csproj.CoreCompileInputs.cache
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\obj\f\netcoreapp3.1\DeviceManager.Shared.dll
+D:\chris\Coding\GitRepo\DeviceManager\DeviceManager.Shared\obj\f\netcoreapp3.1\DeviceManager.Shared.pdb

@@ -8,7 +8,7 @@ namespace DeviceManager.Data.Internal
     {
         public class Sites
         {
-            public const string GetSites = "sp_Sites_Get";
+            public const string GetSites = "Sites_Get";
         }
     }
 }
